@@ -1,3 +1,3 @@
 ### Olá! Sou Bruna Ramos
 
-- 🌱 Estou aprenden Front-end
+- 🌱 Estou aprendendo Front-end
